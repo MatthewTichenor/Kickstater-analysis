@@ -5,4 +5,4 @@ Tasked to create two new analysis:Outcomes based on goals and Outcomes based on 
 
 Using Countifs formula/addition/disivson
 
-Creating Pivottalbes
+Creating Pivot talbes
